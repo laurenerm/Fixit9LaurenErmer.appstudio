@@ -43,7 +43,25 @@
         "forms", 
         "fourControls", 
         "Elements", 
-        "Dropdown1.json"
+        "drpdwn.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "fourControls", 
+        "Elements", 
+        "pgnA.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "fourControls", 
+        "Elements", 
+        "Label1.json"
       ]
     }
   ], 
